@@ -8,6 +8,9 @@ namespace VTM_Client_FOS21
 {
     internal static class Program
     {
+        //HIer bitte die Attribute ergänzen
+
+
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
